@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/russelj91/ReactActivity.git/react_upload/static/css/main.71800dd2.css",
+    "main.js": "/russelj91/ReactActivity.git/react_upload/static/js/main.2ccf4944.js",
+    "index.html": "/russelj91/ReactActivity.git/react_upload/index.html",
+    "main.71800dd2.css.map": "/russelj91/ReactActivity.git/react_upload/static/css/main.71800dd2.css.map",
+    "main.2ccf4944.js.map": "/russelj91/ReactActivity.git/react_upload/static/js/main.2ccf4944.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.71800dd2.css",
+    "static/js/main.2ccf4944.js"
+  ]
+}

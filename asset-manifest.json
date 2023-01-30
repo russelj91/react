@@ -1,13 +1,14 @@
 {
   "files": {
-    "main.css": "/react/static/css/main.71800dd2.css",
-    "main.js": "/react/static/js/main.341889c0.js",
+    "main.css": "/react/static/css/main.1dfd2d83.css",
+    "main.js": "/react/static/js/main.236a6965.js",
+    "static/media/suit-673697_1920.jpg": "/react/static/media/suit-673697_1920.25bd576726d1acaf0612.jpg",
     "index.html": "/react/index.html",
-    "main.71800dd2.css.map": "/react/static/css/main.71800dd2.css.map",
-    "main.341889c0.js.map": "/react/static/js/main.341889c0.js.map"
+    "main.1dfd2d83.css.map": "/react/static/css/main.1dfd2d83.css.map",
+    "main.236a6965.js.map": "/react/static/js/main.236a6965.js.map"
   },
   "entrypoints": [
-    "static/css/main.71800dd2.css",
-    "static/js/main.341889c0.js"
+    "static/css/main.1dfd2d83.css",
+    "static/js/main.236a6965.js"
   ]
 }
